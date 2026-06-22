@@ -6,6 +6,7 @@ Fu Mengkai
 
 China University of Petroleum (Beijing)//National Engineering Research  Center for Pipeline Safety//MOE Key Laboratory of Petroleum Engineering//Beijing Key Laboratory of Urban Oil and  Gas Distribution Technology
 
+![img.png](img.png)
 **🚀 Installation**
 
 Prerequisites
@@ -164,5 +165,5 @@ loss = trainer.train(
 
 print(f'训练耗时 {time.time() - t0:.1f}s')
 
-
+![img_1.png](img_1.png)
 
